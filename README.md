@@ -14,7 +14,7 @@ The Smart Inventory Management System is a modern web-based application develope
 ## 📄 Project Documents
 
 - 📝 [Project Report (PDF)](./Inventory_Report.pdf)
-- 📊 [Presentation (PPTX)](./SmartInventory_Presentation.pptx)
+- 📊 [Presentation (PPTX)](./smart_inventory_management.pptx)
 - 📃 [Use Case & Deployment Certificate (PDF)](./Project_UseCase_Certificate.pdf)
 
 
