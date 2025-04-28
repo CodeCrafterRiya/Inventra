@@ -11,6 +11,12 @@ The Smart Inventory Management System is a modern web-based application develope
 
 ## 🎥 Video Explanation
 [Watch the project explanation video](https://drive.google.com/file/d/1TQfCXRuoDsEyHchGxNe58GPi6g2UPlyD/view?usp=drivesdk)
+## 📄 Project Documents
+
+- 📝 [Project Report (PDF)](./Inventory_Report.pdf)
+- 📊 [Presentation (PPTX)](./SmartInventory_Presentation.pptx)
+- 📃 [Use Case & Deployment Certificate (PDF)](./Project_UseCase_Certificate.pdf)
+
 
 ## 🛠️ Technologies Used
 - Backend: Spring Boot
