@@ -1,16 +1,8 @@
 # Smart Inventory Management System
 
-## Team Members
-- Riya (2301010041)
-- Nisha (2301010068)
-- Adit  (2301010020)
-- Vidya (2301010068)
-
 ## 📌 Project Description
 The Smart Inventory Management System is a modern web-based application developed to help store managers and administrators manage stock efficiently. It enables the addition, removal, and tracking of product inventory. This version currently supports inventory management for administrators. Features like customer engagement and loyalty points will be added in the future.
 
-## 🎥 Video Explanation
-[Watch the project explanation video](https://drive.google.com/file/d/1TQfCXRuoDsEyHchGxNe58GPi6g2UPlyD/view?usp=drivesdk)
 ## 📄 Project Documents
 
 - 📝 [Project Report (PDF)](./Inventory_Report.pdf)
