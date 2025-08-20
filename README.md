@@ -1,14 +1,9 @@
-# Smart Inventory Management System
+# Inventra - Smart Inventory Management System
 
 ## Project Description
-The Smart Inventory Management System is a modern web-based application developed to help store managers and administrators manage stock efficiently. It enables the addition, removal, and tracking of product inventory. This version currently supports inventory management for administrators. Features like customer engagement and loyalty points will be added in the future.
+Inventra is an intelligent inventory management system designed to simplify stock tracking, optimize warehouse operations, and boost customer engagement. It combines real-time inventory monitoring with data-driven insights, helping businesses avoid shortages, reduce wastage, and improve efficiency.
 
-## Project Documents
-
-- 📝 [Project Report (PDF)](./Inventory_Report.pdf)
-- 📊 [Presentation (PPTX)](./smart_inventory_management.pptx)
-- 📃 [Use Case & Deployment Certificate (PDF)](./Project_UseCase_Certificate.pdf)
-
+For business owners, Inventra provides automated low-stock alerts, supplier management, and sales analytics to make smarter decisions
 
 ## Technologies Used
 - Backend: Spring Boot
