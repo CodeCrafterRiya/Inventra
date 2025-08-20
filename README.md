@@ -1,23 +1,23 @@
 # Smart Inventory Management System
 
-## 📌 Project Description
+## Project Description
 The Smart Inventory Management System is a modern web-based application developed to help store managers and administrators manage stock efficiently. It enables the addition, removal, and tracking of product inventory. This version currently supports inventory management for administrators. Features like customer engagement and loyalty points will be added in the future.
 
-## 📄 Project Documents
+## Project Documents
 
 - 📝 [Project Report (PDF)](./Inventory_Report.pdf)
 - 📊 [Presentation (PPTX)](./smart_inventory_management.pptx)
 - 📃 [Use Case & Deployment Certificate (PDF)](./Project_UseCase_Certificate.pdf)
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Backend: Spring Boot
 - Frontend: React.js
 - Database: MySQL
 - Authentication: JWT
 - Tools: Visual Studio Code, IntelliJ IDEA, Postman
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### Prerequisites
 - Node.js and npm
